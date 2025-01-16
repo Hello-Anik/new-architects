@@ -42,6 +42,11 @@ main{
 main > section{
     margin-top: 130px;
 }
+
+.section-title{
+    font-size: 2.8rem;
+    font-weight: 700;
+}
 /* header styles */
 
 /* navbar related styles */
@@ -106,10 +111,7 @@ main > section{
     max-width: 500px;
 }
 
-.future-title{
-    font-size: 2.8rem;
-    font-weight: 700;
-}
+
 #quick-list{
     font-weight: 500;
 }
