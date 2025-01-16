@@ -51,7 +51,7 @@
 }
 
 .navbar , .banner{
-    max-width: 1440px;
+    max-width:  1200px;
     margin: 0 auto;
 }
 
@@ -63,7 +63,7 @@
 /* banner related */
 
 .banner-content{
-    max-width: 850px;
+    max-width: 750px;
     margin: 0 auto;
     text-align: center;
     margin-bottom: 50px;
@@ -81,7 +81,7 @@
 /* responsive media query */
 
 @media screen and (max-width:576px) {
-    .navbar , .nav-link{
+    .navbar , .nav-links{
         flex-direction: column;
     }
 }
